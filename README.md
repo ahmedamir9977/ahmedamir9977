@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedamir9977
 - 👀 I’m interested in Web development
-- 🌱 I’m currently React
+- 🌱 I’m currently learning React
 - 📫 How to reach me ahmed.amir9977@gmail.com
 
 <!---
